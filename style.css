@@ -1,0 +1,14 @@
+body {
+  background-image: url(./images/kiwihug-zGZYQQVmXw0-unsplash.jpg);
+  background-position: center;
+  background-repeat: repeat;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+}
+
+nav ul li {
+  list-style: none;
+}
